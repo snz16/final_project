@@ -1,5 +1,5 @@
 # CS 3013 - final_project 
-I collaborated with my classmate to make a pill popping app for our final project
+I collaborated with my classmate, kattrujillo1016, to make a pill popping app for our final project.
 
 Functionalities: 
 - Track amount of consumption 

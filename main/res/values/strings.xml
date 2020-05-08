@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DailyPill</string>
+    <string name="email">EMAIL</string>
+    <string name="let_s_make_you_an_account">Let\'s make you an account!</string>
+    <string name="already_a_user_sign_in_here">Already a user? Sign In Here!</string>
+    <string name="sign_in_below">Sign In Below</string>
+    <string name="submit">SUBMIT</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register_below">Register Below</string>
+    <string name="pill_popper">PILL POPPER</string>
+    <string name="new_user">New User</string>
+    <string name="track">Track</string>
+    <string name="profile">Profile</string>
+
+
+</resources>
